@@ -19,3 +19,7 @@ movement.
 PS demo was done before I figured out a way to make the maps better- scattered water and grass
 area surrounding the mine for improved movement. To see a better representation of my new
 map, you may review with the currrent map.xml in the repo. Thank you!!
+
+
+
+**fyi to test with same game engine as above, you may refer to my pathfinding repo and replace the xml file in main with the generated xml.**
